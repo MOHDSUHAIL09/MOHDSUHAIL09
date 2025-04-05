@@ -3,8 +3,9 @@
 <h3 align="center">🚀 Full Stack devloper | 💻 JavaScript Engineer | ☁️ AWS Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E67FF&width=435&lines=Building+Next-Gen+Mobile+Apps;React+Native+%7C+JavaScript+%7C+AWS;Always+Learning+%26+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E67FF&width=500&lines=Passionate+Web+Developer;Creative+UI%2FUX+Designer;React+Native+%7C+JavaScript+%7C+AWS;Always+Learning+%26+Building" alt="Typing SVG" />
 </p>
+
 
 ---
 
