@@ -1,13 +1,51 @@
-Greetings👋, I'm Muhammad Aamir Malik
+<h1 align="center">Greetings 👋, I'm Muhammad Aamir Malik</h1>
+<h3 align="center">
 Full Stack Hybrid App Developer | JavaScript Engineer | AWS Enthusiast
-I'm a seasoned Full Stack Hybrid App Developer with expertise in React Native and JavaScript. My journey spans over 3 years, during which I've honed my skills and specialized in crafting exceptional mobile applications. I'm also well-versed in AWS Services, allowing me to build robust and scalable solutions. With a successful track record of delivering projects to satisfied clients across the globe, I'm dedicated to creating impactful and user-centric applications that drive results.
+</h3>
 
-🚀 More than 3 years of experience creating innovative and user-friendly applications
-💼 Currently working at Algoace as a Full Stack Hybrid App Developer using React Native and AWS services
-🌱 Continuously learning and exploring new technologies
-🎓 Visit my Portfolio to learn more about my work
-Technologies and Tools:
-html5 css3 javascript React Nextjs Webpack TypeScript redux GraphQL Sass Styled Components AWS github actions git Postman Heroku Nodejs MongoDB DynamoDb npm yarn Prettier vscode
+<p align="center">
+I'm a seasoned Full Stack Hybrid App Developer with expertise in <strong>React Native</strong> and <strong>JavaScript</strong>. <br />
+With over <strong>3 years of experience</strong>, I specialize in building high-quality, scalable mobile apps and backend solutions using AWS services. <br />
+I have a successful track record of delivering projects to happy clients across the globe.
+</p>
 
-Connect with me:
-Twitter Instagram LinkedIn Gmail
+---
+
+### 🚀 Experience & Background
+
+- 👨‍💻 More than **3 years** of experience creating innovative and user-friendly applications  
+- 💼 Currently working at **Algoace** as a **Full Stack Hybrid App Developer** using React Native and AWS  
+- 🌱 Always learning and exploring new technologies  
+- 🎓 Visit my **[Portfolio](#)** to learn more about my work *(replace # with your portfolio link)*  
+
+---
+
+### 🛠️ Technologies and Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,graphql,sass,styledcomponents,nodejs,mongodb,dynamodb,aws,git,github,postman,heroku,vscode,npm,yarn,prettier,webpack" />
+
+</div>
+
+---
+
+### 📬 Connect with Me
+
+<p align="center">
+  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://instagram.com/your-instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MOHDSUHAIL09&show_icons=true&theme=radical" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHDSUHAIL09&layout=compact&theme=tokyonight" />
+</p>
+
